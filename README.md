@@ -35,21 +35,8 @@ This project involved designing and facilitating a Business Improvement Junior L
 
 <p align="center">
 Input Form: <br/>
-<img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%201.png" height="80%" width="80%" alt="Input Form"/>
+<img src="https://github.com/SaliKangwa/BI-Lead-Programme/blob/main/waste%20reduction.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
-
-<p align="center">
-Input Form: <br/>
-<img src="https://github.com/SaliKangwa/Service-Contract/blob/main/sr%20form%204.png" height="80%" width="80%" alt="Input Form"/>
-<br />
-<br />
-
-
-<p align="center">
-Input Form: <br/>
-<img src="https://github.com/SaliKangwa/Innacuracy-Report/blob/main/ir%20form%203.png" height="80%" width="80%" alt="Input Form"/>
-<br />
-<br />
 
