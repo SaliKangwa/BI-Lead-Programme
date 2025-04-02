@@ -37,12 +37,5 @@ This project involved designing and facilitating a Business Improvement Junior L
 
 
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Input Form: <br/>
-<img src="https://github.com/SaliKangwa/BI-Lead-Programme/blob/main/waste%20reduction.png" height="80%" width="80%" alt="Input Form"/>
-<br />
-<br />
 
 
